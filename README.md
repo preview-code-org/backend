@@ -1,4 +1,6 @@
-# backend
+# Old version of Preview-Code Backend
+
+This version is not up-to-date with the current website.
 
 Running the backend with ssl:
 
